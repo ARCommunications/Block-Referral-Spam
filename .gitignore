@@ -1,5 +1,8 @@
+# Server Basic
 *.log
 .htaccess
+
+# WP Internal
 sitemap.xml
 sitemap.xml.gz
 wp-config.php
@@ -11,3 +14,6 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+
+# Mac crap
+.DS_Store
