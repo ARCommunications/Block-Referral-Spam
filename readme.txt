@@ -1,10 +1,10 @@
 === Block Referral Spam ===
 Contributors: Asif2BD
 Donate link: http://wpdeveloper.net/
-Tags: referral spam, google analytics referral spam, google referral spam, 4webmasters.org, semalt.com, ghost referrers, spam attack, Get-Free-Traffic-Now.com, Blocking Spam Referral,  
+Tags: referral spam, google analytics referral spam, google referral spam, 4webmasters.org, semalt.com, ghost referrers, spam attack, Get-Free-Traffic-Now.com, Blocking Spam Referral, referral spam, analytics spam  
 Requires at least: 2.5.0
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,13 +16,19 @@ This plugins blocks the most number of Referral Spams. Now no more notice from G
 
 This plugins blocks the most number of Referral Spams. Now no more notice from Google and no more weird report in Google Analytics.
 
+Its super simple to use, nothing to setup, just install and activate the plugin, we will protect from 126 separate domain that spam your Google Analytics. This domain list is always increasing and biggest list available.
+
+You could give feedback to us directly, and suggest new spam domain, [click here](https://wpdeveloper.net/go/BRS-UO).
+
+
 **Check Our Other Plugins:**
 
+* **[Analytify - Ultimate Google Analytics Dashboard](https://wordpress.org/plugins/wp-analytify/)**
 * **[Twitter Cards Meta](https://wordpress.org/plugins/twitter-cards-meta/)** 
 * **[WP Scheduled Posts](https://wpdeveloper.net/free-plugin/wp-scheduled-posts/)** 
 * **[Facebook Secret Meta](https://wordpress.org/plugins/facebook-secret-meta/)** 
 * **[WP Author Report Free](https://wordpress.org/plugins/wp-author-report-free/)** 
-* **[Analytify - Ultimate Google Analytics Dashboard](https://wordpress.org/plugins/wp-analytify/)**
+
 
 
 > <strong>Contribute in GitHub!!</strong><br>
@@ -72,15 +78,19 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Changelog ==
 
+= 1.0.1 - June 8, 2015 =
+* Spam domain list update.
+
 = 1.0.0 =
 * Initial release
 
 
 
+
 == Upgrade Notice ==
 
-= 1.0.0 =
-* Initial release 
+= 1.0.1 =
+* [Must Update] Spam domain list update, option to add your feedback.
 
 
 

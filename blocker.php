@@ -124,6 +124,8 @@ $spams = array (
                 "domination.ml",
                 "youporn-forum.uni.me",
                 "www.event-tracking.com",
+                "trafficmonetize.org",
+                "cxpromote.com",
 ); 
 // array of evil spammers 
 
