@@ -46,7 +46,7 @@ This plugins blocks the most number of Referral Spams. Now no more notice from G
 
 Activate the Plugin. You are protected, no setting or configiration.
 
-You are done, now post something new and share at Facebook.
+You are done!
 
 
 
@@ -66,7 +66,7 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Screenshots ==
 
-1. Example of At Google Analytics
+1. Example Spam At Google Analytics
 
 
 
