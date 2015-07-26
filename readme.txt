@@ -3,12 +3,12 @@ Contributors: Asif2BD
 Donate link: http://wpdeveloper.net/
 Tags: referral spam, google analytics referral spam, google referral spam, 4webmasters.org, semalt.com, ghost referrers, spam attack, Get-Free-Traffic-Now.com, Blocking Spam Referral, referral spam, analytics spam  
 Requires at least: 2.5.0
-Tested up to: 4.2.2
-Stable tag: 1.0.4
+Tested up to: 4.2.3
+Stable tag: 1.1.0
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugins blocks the most number of Referral Spams. Now no more notice from Google and no more weird report in Google Analytics. 
+This plugins blocks maximum Referral Spams. Now no more notice from Google and no more weird report in Google Analytics. 
 
 == Description ==
 
@@ -16,11 +16,11 @@ This plugins blocks the most number of Referral Spams. Now no more notice from G
 
 This plugins blocks the most number of Referral Spams. Now no more notice from Google and no more weird report in Google Analytics.
 
-Its super simple to use, nothing to setup, just install and activate the plugin, we will protect from 150 separate domain (thanks to the user feedback) that spam your Google Analytics. This domain list is always increasing and biggest list available online.
+Its super simple to use, nothing to setup, just install and activate the plugin, we will protect from 350+ separate domain (thanks to the user contribution) that spam your Google Analytics. This domain list is always increasing and biggest list available online.
 
 You could give feedback to us directly, and suggest new spam domain, [click here](https://wpdeveloper.net/go/BRS-UO).
 
-Here is our [blog post](https://wpdeveloper.net/go/Blog-BRS-A1), on how to get Top Referrer right from your Dashboard
+Here is our [blog post](https://wpdeveloper.net/go/Blog-BRS-A1), on how to get Top Referrer right from your WordPress Dashboard.
 
 
 **Check Our Other Plugins:**
@@ -35,6 +35,8 @@ Here is our [blog post](https://wpdeveloper.net/go/Blog-BRS-A1), on how to get T
 
 > <strong>Contribute in GitHub!!</strong><br>
 > Contribute in GitHub. [Click here](https://github.com/ARCommunications/Block-Referral-Spam)!
+
+**This plugin is a great example of OpenSource community. Pull request are very welcome and usually accepted within 24hr. Together we fight with evil spam bot.**
 
 
 == Installation ==
@@ -80,6 +82,9 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Changelog ==
 
+= 1.1.0 - July 25, 2015 =
+* Thanks to user [jabet](https://github.com/jabet) for the contribution, now spam list doubled to 350+ domain list, all sorted in order, robust then ever.
+
 = 1.0.4 - July 4, 2015 =
 * Thanks to user feedback, Spam domain list update, new tutorial notification.
 
@@ -101,8 +106,8 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Upgrade Notice ==
 
-= 1.0.4 =
-* [Must Update] Thanks to user feedback, Spam domain list update, new tutorial notification.
+= 1.1.0 =
+* [Must Update] Thanks to user [jabet](https://github.com/jabet) for the contribution, now spam list doubled to 350+ domain list, all sorted in order, robust then ever.
 
 
 
