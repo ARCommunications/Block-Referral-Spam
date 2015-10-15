@@ -354,6 +354,27 @@ $spams = array (
 				"профмонтаж-врн.рф",
 				"снятьдомвсевастополе.рф",
 				"холодныйобзвон.рф",
+				"traffic2money.com",
+				"yourserverisdown.com",
+				"e-buyeasy.com",
+				"hotspot.ipb.co.id",
+				"satellite.maps.ilovevitaly.com",
+				"chinese-amezon.com",
+				"site4.free-floating-buttons.com",
+				"b-buyeasy.com",
+				"sexyali.com",
+				"video--production.com",
+				"how-to-earn-quick-money.com",
+				"hongfanji.com",
+				"qualitymarketzone.com",
+				"seo-platform.com",
+				"de.zapmeta.com",
+				"urlopener.com",
+				"best-seo-software.xyz",
+				"rednise.com",
+				"rankings-analytics.com",
+				"justprofit.xyz",
+
 ); 
 // array of evil spammers 
 

@@ -1,10 +1,10 @@
 === Block Referral Spam ===
 Contributors: Asif2BD
 Donate link: http://wpdeveloper.net/
-Tags: referral spam, google analytics referral spam, google referral spam, 4webmasters.org, semalt.com, ghost referrers, spam attack, Get-Free-Traffic-Now.com, Blocking Spam Referral, referral spam, analytics spam  
+Tags: referral spam, Referrer spam, Referer spam, Referral Traffic, google analytics referral spam, google referral spam, 4webmasters.org, semalt.com, ghost referrers, spam attack, Get-Free-Traffic-Now.com, Blocking Spam Referral, referral spam, analytics spam  
 Requires at least: 2.5.0
-Tested up to: 4.2.3
-Stable tag: 1.1.0
+Tested up to: 4.3.2
+Stable tag: 1.2.0
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ This plugins blocks maximum Referral Spams. Now no more notice from Google and n
 
 This plugins blocks the most number of Referral Spams. Now no more notice from Google and no more weird report in Google Analytics.
 
-Its super simple to use, nothing to setup, just install and activate the plugin, we will protect from 350+ separate domain (thanks to the user contribution) that spam your Google Analytics. This domain list is always increasing and biggest list available online.
+Its super simple to use, nothing to setup, just install and activate the plugin, we will protect from 375+ separate domain (thanks to the user contribution) that spam your Google Analytics. This domain list is always increasing and biggest list available online.
 
 You could give feedback to us directly, and suggest new spam domain, [click here](https://wpdeveloper.net/go/BRS-UO).
 
@@ -38,6 +38,7 @@ Here is our [blog post](https://wpdeveloper.net/go/Blog-BRS-A1), on how to get T
 
 **This plugin is a great example of OpenSource community. Pull request are very welcome and usually accepted within 24hr. Together we fight with evil spam bot.**
 
+Don't get confused with the term *Referrer Spam* or *Referral Spam* or *Referer Spam*. Google basically calls it *Referral Traffic*. It's all mean the same thing.
 
 == Installation ==
 
@@ -82,6 +83,10 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Changelog ==
 
+= 1.2.0 - October 15, 2015 =
+* Sorry for late update. Vacation with family for the first time with my baby daughter was just too occupying! Spam list updated with all your inputs.
+* Compatible with upcoming WordPress 4.3.2.
+
 = 1.1.0 - July 25, 2015 =
 * Thanks to user [jabet](https://github.com/jabet) for the contribution, now spam list doubled to 350+ domain list, all sorted in order, robust then ever.
 
@@ -106,13 +111,13 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Upgrade Notice ==
 
-= 1.1.0 =
-* [Must Update] Thanks to user [jabet](https://github.com/jabet) for the contribution, now spam list doubled to 350+ domain list, all sorted in order, robust then ever.
+= 1.2.0 =
+* [Must Update] Updated list with important spam domain, attacking a lot in present time, and fully compatible with WordPress upcoming 4.3.2
 
 
 
 == Donation ==
 
-You may donate to WordPress Foundation.
+You could use our free & pro plugins fro link below.
 
 https://wpdeveloper.net/
