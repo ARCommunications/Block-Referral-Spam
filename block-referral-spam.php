@@ -3,13 +3,13 @@
  * Plugin Name: Block Referral Spam
  * Plugin URI: https://wpdeveloper.net/free-plugin/block-referral-spam/
  * Description: This plugins blocks the most number of Referral Spams. Now no more notice from Google and no more weird report in Google Analytics.
- * Version: 1.2.0
- * Author: WPDeveloper.net
- * Author URI: http://wpdeveloper.net
+ * Version: 1.2.1
+ * Author: WP Developer
+ * Author URI: https://wpdeveloper.net
  * License: GPLv2+
  * Text Domain: block-referral-spam
  * Min WP Version: 2.5.0
- * Max WP Version: 4.3.2
+ * Max WP Version: 4.8
  */
 
 
@@ -36,9 +36,9 @@ if ( current_user_can( 'install_plugins' ) )
      global $current_user ;
         $user_id = $current_user->ID;
         /* Check that the user hasn't already clicked to ignore the message */
-     if ( ! get_user_meta($user_id, 'brs_ignore_notice120') ) {
+     if ( ! get_user_meta($user_id, 'brs_ignore_notice121') ) {
         echo '<div class="updated"><p>';
-        printf(__('<b>[Update]</b> Sorry for late update. Vacation with family for the first time with my baby daughter was just too occupying! Spam list updated with all your input, please keep sending us feedback <a href="https://wpdeveloper.net/go/BRS-UO" target="_blank">here</a>. You could review us <a href="https://wpdeveloper.net/go/BRS-Review" target="_blank">here</a> if you feel this plugin helped you! <a href="%1$s">[Hide Notice]</a>'), '?brs_nag_ignore=0');
+        printf(__('<b>[Update]</b> Thanks for using. Please keep sending us feedback <a href="https://wpdeveloper.net/go/BRS-UO" target="_blank">here</a>. You could review us <a href="https://wpdeveloper.net/go/BRS-Review" target="_blank">here</a> if you feel this plugin helped you! <a href="%1$s">[Hide Notice]</a>'), '?brs_nag_ignore=0');
         echo "</p></div>";
      }
     }
@@ -51,7 +51,7 @@ function brs_nag_ignore() {
         $user_id = $current_user->ID;
         /* If user clicks to ignore the notice, add that to their user meta */
         if ( isset($_GET['brs_nag_ignore']) && '0' == $_GET['brs_nag_ignore'] ) {
-             add_user_meta($user_id, 'brs_ignore_notice120', 'true', true);
+             add_user_meta($user_id, 'brs_ignore_notice121', 'true', true);
      }
 }
 ?>

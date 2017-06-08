@@ -1,10 +1,10 @@
 === Block Referral Spam ===
 Contributors: Asif2BD
-Donate link: http://wpdeveloper.net/
+Donate link: https://wpdeveloper.net/
 Tags: referral spam, Referrer spam, Referer spam, Referral Traffic, google analytics referral spam, google referral spam, 4webmasters.org, semalt.com, ghost referrers, spam attack, Get-Free-Traffic-Now.com, Blocking Spam Referral, referral spam, analytics spam  
 Requires at least: 2.5.0
-Tested up to: 4.3.2
-Stable tag: 1.2.0
+Tested up to: 4.8
+Stable tag: 1.2.1
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -82,6 +82,9 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 
 == Changelog ==
+
+= 1.2.1 - June 08, 2017 =
+* Compatible with WordPress 4.8
 
 = 1.2.0 - October 15, 2015 =
 * Sorry for late update. Vacation with family for the first time with my baby daughter was just too occupying! Spam list updated with all your inputs.
